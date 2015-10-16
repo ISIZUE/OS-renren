@@ -1,1 +1,0 @@
-..\z_tools\nask.exe abc.nas helloos.img
