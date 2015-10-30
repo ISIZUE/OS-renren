@@ -9,7 +9,7 @@ DEL      = del
 # デフォルト動作
 
 default :
-	$(MAKE) run
+	$(MAKE) img
 
 # ファイル生成規則
 
